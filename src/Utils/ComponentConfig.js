@@ -9,7 +9,6 @@ const createComponentConfig = (type) => {
           variant: "contained",
         },
       };
-
     case "TextField":
       return {
         id: Date.now(),
