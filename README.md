@@ -121,7 +121,6 @@ Each dropped component is stored as a structured object:
     variant: "contained"
   }
 }
-```
 
 ### ✅ Property Panel
 
